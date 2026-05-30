@@ -4,8 +4,11 @@ A simple 2D game built with Pygame as part of a game design course.
 
 ## How to Play
  Use **LEFT** and **RIGHT** arrow keys to move
+ 
  Catch **yellow coins** to gain points
+ 
  Avoid **gray rocks** or you will lose lives
+ 
  Reach **50 points** to win
 
 ## Features
