@@ -20,4 +20,4 @@ A simple 2D game built with Pygame as part of a game design course.
 
 ## How to Run
 ```bash
-python mygame.py
+python catch_game.py
