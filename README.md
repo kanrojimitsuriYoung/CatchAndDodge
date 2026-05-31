@@ -1,12 +1,16 @@
 # Catch and Dodge
 
-A simple 2D game built with Pygame as part of a game design course.
+**Course assignment for Game Design and Pygame Algorithms.**  
+**Student:** Wang Yihang  
+**Date:** May 2026
+
+This game was developed from scratch by me as part of my final project. All code is my own work.
 
 ## How to Play
-- Use **LEFT** and **RIGHT** arrow keys to move
-- Catch **yellow coins** to gain points
-- Avoid **gray rocks** or you will lose lives
-- Reach **30 points** to win
+- Press LEFT / RIGHT arrow keys to move
+- Catch yellow coins (+1 point)
+- Avoid gray rocks (-1 life)
+- Reach 30 points to win
 
 ## Features
 - Real-time collision detection
@@ -14,10 +18,6 @@ A simple 2D game built with Pygame as part of a game design course.
 - Random horizontal drift for falling items
 - Win / lose conditions
 
-## Requirements
-- Python 3.x
-- Pygame 2.x
-
-## How to Run
+## Run the Game
 ```bash
 python catch_game.py
